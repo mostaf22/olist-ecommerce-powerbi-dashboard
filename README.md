@@ -111,5 +111,5 @@ A dedicated measures table (`Measures_`) holds **28 DAX measures**, grouped into
 
 ## Author
 
-**Mostafa Saber** — Data Analyst
-🔗 [LinkedIn](#) · [GitHub](#)
+**Mostafa Abdelhamed** — Data Analyst
+
